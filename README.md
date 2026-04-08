@@ -125,15 +125,3 @@ Contributions are welcome! Open an issue or submit a PR for:
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## 📬 **Contact**
-
-For questions or collaboration, reach out:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [@your-username](https://github.com/your-username)
