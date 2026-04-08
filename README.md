@@ -1,4 +1,4 @@
-# Real-Time-Stock-Market-Data-Analysis-with-Superset-Kafka-and-Druid
+# Real-Time-Stock-Market-Data-Ingestion+Streaming-with-Superset-Kafka-and-Druid
 
 <img width="1024" height="548" alt="image" src="https://github.com/user-attachments/assets/145fd867-5d39-4265-9a8e-aed5efec18be" />
 
