@@ -100,13 +100,6 @@ VizStockStreamer/
 
 ---
 
-## 📈 **Example: Apple (AAPL) Dashboard**
-
-Superset Dashboard  
-*Sample Superset dashboard showing real-time AAPL stock trends.*
-
----
-
 ## 🌟 **Future Enhancements**
 
 - Add **Apache Spark** for advanced analytics (e.g., predictive modeling for AAPL).
